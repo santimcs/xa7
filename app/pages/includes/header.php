@@ -15,10 +15,6 @@
 		<div class="header-div">
 			<div class="main-title">
 				PORTFOLIOS
-				<div class="socials">
-
-
-				</div>
 			</div>
 			<div class="main-nav">
 				<div class="nav-item"><a href="<?=ROOT?>">Home</a></div>
