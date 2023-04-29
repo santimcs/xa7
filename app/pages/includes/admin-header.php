@@ -4,7 +4,7 @@
 	<title>Portfolios</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" type="text/css" href="<?=ROOT?>/assets/css/style.css?52423">
+	<link rel="stylesheet" type="text/css" href="<?=ROOT?>/assets/css/style.css?5">
 </head>
 <body>
 	<style>
@@ -30,9 +30,7 @@
 			<div class="main-nav">
 				<div class="nav-item"><a href="<?=ROOT?>/admin">Dashboard</a></div>
 				<div class="nav-item"><a href="<?=ROOT?>/admin/users">Users</a></div>
-				<div class="nav-item"><a href="<?=ROOT?>/admin/songs">Songs</a></div>
-				<div class="nav-item"><a href="<?=ROOT?>/admin/categories">Categories</a></div>
-				<div class="nav-item"><a href="<?=ROOT?>/admin/artists">Artists</a></div>
+				<div class="nav-item"><a href="<?=ROOT?>/admin/portfolios">Portfolios</a></div>
 				<div class="nav-item dropdown">
 					<a href="#">Hi, <?=user('username')?></a>
 					<div class="dropdown-list">

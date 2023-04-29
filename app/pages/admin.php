@@ -22,16 +22,8 @@ if(!is_admin())
 			require page('admin/users');
 			break;
 
-		case 'categories':
-			require page('admin/categories');
-			break;
-
-		case 'artists':
-			require page('admin/artists');
-			break;
-
-		case 'songs':
-			require page('admin/songs');
+		case 'portfolios':
+			require page('admin/portfolios');
 			break;
 		
 		default:
